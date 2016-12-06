@@ -19,3 +19,10 @@ Manual:
 
 Lessons:
 * [egghead](https://egghead.io/lessons) - free/pay video lessons
+
+SVG:
+* [1](http://loading.io/), [2](https://codegeekz.com/best-css-svg-loaders-and-spinners/) - loading svg
+* [snapsvg](http://snapsvg.io/demos/#game) - 
+* [SVG in HTML and CSS](http://codepen.io/yoksel/pen/xDIiq) - connection svg 
+* [svg-spinner](http://articles.dappergentlemen.com/2015/01/13/svg-spinner/) - make svg 
+* [d3](https://github.com/d3/d3), [Example](https://github.com/Mingun/d3/wiki/RU-%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BE%D0%B2) - library d3
