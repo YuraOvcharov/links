@@ -16,6 +16,7 @@ Manual:
 * [БЭМ](https://tech.yandex.ru/bem/) - опенсорс-технология разработки сайтов 
 * [using-font-face](https://css-tricks.com/snippets/css/using-font-face/) - правильное подключение шрифтов
 * [css-hacks](http://www.fix-css.com/cheat-sheets/css-hacks/) - hacks for different browsers
+* [habr-post](https://habrahabr.ru/post/273471/) - Коллекция практических советов и заметок по вёрстке
 
 Lessons:
 * [egghead](https://egghead.io/lessons) - free/pay video lessons
