@@ -18,6 +18,10 @@ Manual:
 * [css-hacks](http://www.fix-css.com/cheat-sheets/css-hacks/) - hacks for different browsers
 * [habr-post](https://habrahabr.ru/post/273471/) - Коллекция практических советов и заметок по вёрстке
 
+CSS:
+* [sass-project](http://thesassway.com/beginner/how-to-structure-a-sass-project) - how-to-structure-a-sass-project
+* [sass-project](https://www.sitepoint.com/architecture-sass-project/) - architecture-sass-project
+
 Lessons:
 * [egghead](https://egghead.io/lessons) - free/pay video lessons
 
