@@ -6,7 +6,6 @@ Codeopen:
 
 Git:
 * [csscomb](https://github.com/i-akhmadullin/brackets-csscomb) - organizes code
-* [gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) - started gulp
 * [Mask-Plugin](https://igorescobar.github.io/jQuery-Mask-Plugin/) - mask for input
 * [normalize.css](https://github.com/necolas/normalize.css/) - first .css in html
 
@@ -21,6 +20,10 @@ Manual:
 CSS:
 * [sass-project](http://thesassway.com/beginner/how-to-structure-a-sass-project) - how-to-structure-a-sass-project
 * [sass-project](https://www.sitepoint.com/architecture-sass-project/) - architecture-sass-project
+
+Сборка:
+* [gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) - started gulp
+* delete node_modules 1. "npm install rimraf -g" 2. in folder "rimraf node_modules"
 
 Lessons:
 * [egghead](https://egghead.io/lessons) - free/pay video lessons
