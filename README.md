@@ -8,6 +8,7 @@ Git:
 * [csscomb](https://github.com/i-akhmadullin/brackets-csscomb) - organizes code
 * [Mask-Plugin](https://igorescobar.github.io/jQuery-Mask-Plugin/) - mask for input
 * [normalize.css](https://github.com/necolas/normalize.css/) - first .css in html
+* [regexhub](https://projects.lukehaas.me/regexhub/) - patterns
 
 Manual:
 * [flexbox](http://frontender.info/a-guide-to-flexbox/) - manual flexbox
