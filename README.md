@@ -29,6 +29,11 @@ CSS:
 Lessons:
 * [egghead](https://egghead.io/lessons) - free/pay video lessons
 
+Mail:
+* [pechkin](https://habrahabr.ru/company/pechkin/blog/255819/) - Правила вёрстки email-писем
+* [Вёрстка писем](https://habrahabr.ru/company/pechkin/blog/273677/) - Вёрстка писем: 60 полезных ресурсов, руководств и исследований
+* [habr email](https://habrahabr.ru/post/252279/) - Верстка email рассылок от А до Я для чайников 
+
 SVG:
 * [1](http://loading.io/), [2](https://codegeekz.com/best-css-svg-loaders-and-spinners/) - loading svg
 * [snapsvg](http://snapsvg.io/demos/#game) - 
