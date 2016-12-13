@@ -34,6 +34,7 @@ Mail:
 * [Вёрстка писем](https://habrahabr.ru/company/pechkin/blog/273677/) - Вёрстка писем: 60 полезных ресурсов, руководств и исследований
 * [habr email](https://habrahabr.ru/post/252279/) - Верстка email рассылок от А до Я для чайников 
 * [inliner](https://inliner.cm/) - для переноса стилей из head в инлайн 
+* [habr 1,2,3 columns](https://habrahabr.ru/post/259793/)- Создаём отзывчивые письма для будущего без медиа-запросов
 
 SVG:
 * [1](http://loading.io/), [2](https://codegeekz.com/best-css-svg-loaders-and-spinners/) - loading svg
