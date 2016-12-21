@@ -5,6 +5,12 @@ Codeopen:
 * [Upload input](http://codepen.io/aaronvanston/pen/yNYOXR), [Multiple File Upload](http://codepen.io/maheshambure21/pen/vKQQmz), [DropImgForm](http://codepen.io/curdwithraisins/pen/xZmxxW), [Upload & Preview](http://codepen.io/mattsince87/pen/yadZXv) - drag&drop image
 * [Gallery](http://codepen.io/ArnoldsK/pen/EgVqyW), [circle01](http://codepen.io/suhajdab/pen/ceLdj), [circle02](http://codepen.io/vineethtr/pen/BydLor), [No-JS On-Hover Image Zoom](http://codepen.io/dgca/pen/JYQvbj) - Увеличение картинки 
 
+Animation:
+* [animate](https://daneden.github.io/animate.css/) -animate.css
+* [WOWjs](http://mynameismatthieu.com/WOW/) - scroll animate with js
+* [aos](https://github.com/michalsnik/aos) - <div data-aos="animation_name">
+* [Animations on Scroll](http://codepen.io/SitePoint/pen/warKXE) - using css and jquery
+
 Git:
 * [csscomb](https://github.com/i-akhmadullin/brackets-csscomb) - organizes code
 * [Mask-Plugin](https://igorescobar.github.io/jQuery-Mask-Plugin/) - mask for input
