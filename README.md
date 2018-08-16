@@ -31,8 +31,8 @@ Manual:
 CSS:
 * [sass-project](http://thesassway.com/beginner/how-to-structure-a-sass-project) - how-to-structure-a-sass-project
 * [sass-project](https://www.sitepoint.com/architecture-sass-project/) - architecture-sass-project
-* [SALVATTORE] (https://salvattore.js.org/) - A jQuery Masonry alternative with CSS-driven configuration.
-* [Masonry] (https://masonry.desandro.com/) - Cascading grid layout library
+* [SALVATTORE](https://salvattore.js.org/) - A jQuery Masonry alternative with CSS-driven configuration.
+* [Masonry](https://masonry.desandro.com/) - Cascading grid layout library
     
 
 Сборка:
