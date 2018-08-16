@@ -25,6 +25,8 @@ Manual:
 * [using-font-face](https://css-tricks.com/snippets/css/using-font-face/) - правильное подключение шрифтов
 * [css-hacks](http://www.fix-css.com/cheat-sheets/css-hacks/) - hacks for different browsers
 * [habr-post](https://habrahabr.ru/post/273471/) - Коллекция практических советов и заметок по вёрстке
+* [javascript-airbnb](https://github.com/leonidlebedev/javascript-airbnb) - Руководство по написанию JavaScript кода от Airbnb()
+* [CSS - airbnb](https://github.com/leonidlebedev/javascript-airbnb/tree/master/css-in-javascript) - Руководство по написанию CSS-in-JavaScript кода от Airbnb
 
 CSS:
 * [sass-project](http://thesassway.com/beginner/how-to-structure-a-sass-project) - how-to-structure-a-sass-project
