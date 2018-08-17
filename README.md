@@ -2,6 +2,7 @@ Codeopen:
 * [pen/Eikhr](https://codepen.io/juanbrujo/pen/Eikhr) - styling text underline
 * [Accordion](http://codepen.io/raubaca/pen/PZzpVe) - pure CSS Accordion
 * [Fort.js](https://codepen.io/idris/pen/LydKi) - progress bar for input
+* [Image carousel](https://codepen.io/sfi0zy/pen/OQOExE) - change images using rectangles
 * [Upload input](http://codepen.io/aaronvanston/pen/yNYOXR), [Multiple File Upload](http://codepen.io/maheshambure21/pen/vKQQmz), [DropImgForm](http://codepen.io/curdwithraisins/pen/xZmxxW), [Upload & Preview](http://codepen.io/mattsince87/pen/yadZXv) - drag&drop image
 * [Gallery](http://codepen.io/ArnoldsK/pen/EgVqyW), [circle01](http://codepen.io/suhajdab/pen/ceLdj), [circle02](http://codepen.io/vineethtr/pen/BydLor), [No-JS On-Hover Image Zoom](http://codepen.io/dgca/pen/JYQvbj) - Увеличение картинки 
 * [davidgilbertson](http://codepen.io/davidgilbertson/pen/aBpJzO), [статья](http://css-live.ru/articles-css/pravilnye-kontrolnye-tochki-v-css.html) - breakpoints
