@@ -21,6 +21,7 @@ Git:
 
 Manual:
 * [flexbox](http://frontender.info/a-guide-to-flexbox/) - manual flexbox
+* [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - manual grid
 * [143452](https://habrahabr.ru/post/143452/) - rules for HTML/CSS 
 * [БЭМ](https://tech.yandex.ru/bem/) - опенсорс-технология разработки сайтов 
 * [using-font-face](https://css-tricks.com/snippets/css/using-font-face/) - правильное подключение шрифтов
