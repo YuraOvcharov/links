@@ -6,6 +6,9 @@ Codeopen:
 * [Upload input](http://codepen.io/aaronvanston/pen/yNYOXR), [Multiple File Upload](http://codepen.io/maheshambure21/pen/vKQQmz), [DropImgForm](http://codepen.io/curdwithraisins/pen/xZmxxW), [Upload & Preview](http://codepen.io/mattsince87/pen/yadZXv) - drag&drop image
 * [Gallery](http://codepen.io/ArnoldsK/pen/EgVqyW), [circle01](http://codepen.io/suhajdab/pen/ceLdj), [circle02](http://codepen.io/vineethtr/pen/BydLor), [No-JS On-Hover Image Zoom](http://codepen.io/dgca/pen/JYQvbj) - Увеличение картинки 
 * [davidgilbertson](http://codepen.io/davidgilbertson/pen/aBpJzO), [статья](http://css-live.ru/articles-css/pravilnye-kontrolnye-tochki-v-css.html) - breakpoints
+* [Styling input[type="file"]](https://codepen.io/docode/pen/LGYqbE) - Стилизация кнопки (загрузка файла)
+* [CSS tabs without JS ](https://codepen.io/docode/pen/eJORLE) - Стилизация табов
+* [Custom checkbox CSS3 ](https://codepen.io/docode/pen/yYWENN) - Стилизация checkbox
 
 Animation:
 * [animate](https://daneden.github.io/animate.css/) -animate.css
