@@ -36,6 +36,7 @@ Manual:
 * [javascript-airbnb](https://github.com/leonidlebedev/javascript-airbnb) - Руководство по написанию JavaScript кода от Airbnb()
 * [CSS - airbnb](https://github.com/leonidlebedev/javascript-airbnb/tree/master/css-in-javascript) - Руководство по написанию CSS-in-JavaScript кода от Airbnb
 * [Checklist](https://github.com/lex111/Front-End-Performance-Checklist#%D0%A8%D1%80%D0%B8%D1%84%D1%82%D1%8B) - Чек-лист производительности фронтенда
+* [Poly Fluid Sizing](https://medium.com/@jakobud/css-polyfluidsizing-using-calc-vw-breakpoints-and-linear-equations-8e15505d21ab) - Адаптивность шрифта
 
 CSS:
 * [sass-project](http://thesassway.com/beginner/how-to-structure-a-sass-project) - how-to-structure-a-sass-project
