@@ -1,4 +1,4 @@
-Codeopen:
+Codepen:
 * [pen/Eikhr](https://codepen.io/juanbrujo/pen/Eikhr) - styling text underline
 * [Accordion](http://codepen.io/raubaca/pen/PZzpVe) - Аккордеон
 * [Fort.js](https://codepen.io/idris/pen/LydKi) - progress bar for input
