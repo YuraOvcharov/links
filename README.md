@@ -1,14 +1,17 @@
 Codeopen:
 * [pen/Eikhr](https://codepen.io/juanbrujo/pen/Eikhr) - styling text underline
-* [Accordion](http://codepen.io/raubaca/pen/PZzpVe) - pure CSS Accordion
+* [Accordion](http://codepen.io/raubaca/pen/PZzpVe) - Аккордеон
 * [Fort.js](https://codepen.io/idris/pen/LydKi) - progress bar for input
 * [Image carousel](https://codepen.io/sfi0zy/pen/OQOExE) - change images using rectangles
 * [Upload input](http://codepen.io/aaronvanston/pen/yNYOXR), [Multiple File Upload](http://codepen.io/maheshambure21/pen/vKQQmz), [DropImgForm](http://codepen.io/curdwithraisins/pen/xZmxxW), [Upload & Preview](http://codepen.io/mattsince87/pen/yadZXv) - drag&drop image
-* [Gallery](http://codepen.io/ArnoldsK/pen/EgVqyW), [circle01](http://codepen.io/suhajdab/pen/ceLdj), [circle02](http://codepen.io/vineethtr/pen/BydLor), [No-JS On-Hover Image Zoom](http://codepen.io/dgca/pen/JYQvbj) - Увеличение картинки 
+* [circle01](http://codepen.io/suhajdab/pen/ceLdj), [circle02](http://codepen.io/vineethtr/pen/BydLor), [No-JS On-Hover Image Zoom](http://codepen.io/dgca/pen/JYQvbj) - Увеличение картинки 
 * [davidgilbertson](http://codepen.io/davidgilbertson/pen/aBpJzO), [статья](http://css-live.ru/articles-css/pravilnye-kontrolnye-tochki-v-css.html) - breakpoints
 * [Styling input[type="file"]](https://codepen.io/docode/pen/LGYqbE) - Стилизация кнопки (загрузка файла)
 * [CSS tabs without JS ](https://codepen.io/docode/pen/eJORLE) - Стилизация табов
 * [Custom checkbox CSS3 ](https://codepen.io/docode/pen/yYWENN) - Стилизация checkbox
+* [CSS3 Box Shadows Effects ](https://codepen.io/haibnu/pen/FxGsI) - Тени (box-shadows)
+* [Внизу](https://codepen.io/agusesetiyono/pen/bVMaBm?editors=1100), [Сверху](https://codepen.io/tfirdaus/pen/pjqrpe), [Статья](http://pattern-blog.com.ua/article/skoshennyie-elementyi-na-css) - Косые углы у объекта
+* [Linear gradients ](https://codepen.io/sfi0zy/pen/pZmadB) - Button's border
 
 Animation:
 * [animate](https://daneden.github.io/animate.css/) -animate.css
