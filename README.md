@@ -35,6 +35,7 @@ Manual:
 * [habr-post](https://habrahabr.ru/post/273471/) - Коллекция практических советов и заметок по вёрстке
 * [javascript-airbnb](https://github.com/leonidlebedev/javascript-airbnb) - Руководство по написанию JavaScript кода от Airbnb()
 * [CSS - airbnb](https://github.com/leonidlebedev/javascript-airbnb/tree/master/css-in-javascript) - Руководство по написанию CSS-in-JavaScript кода от Airbnb
+* [Checklist](https://github.com/lex111/Front-End-Performance-Checklist#%D0%A8%D1%80%D0%B8%D1%84%D1%82%D1%8B) - Чек-лист производительности фронтенда
 
 CSS:
 * [sass-project](http://thesassway.com/beginner/how-to-structure-a-sass-project) - how-to-structure-a-sass-project
