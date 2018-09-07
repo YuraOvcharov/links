@@ -1,5 +1,5 @@
 Codepen:
-* [pen/Eikhr](https://codepen.io/juanbrujo/pen/Eikhr) - styling text underline
+* [pen/Eikhr](https://codepen.io/juanbrujo/pen/Eikhr), [Статья](http://prgssr.ru/development/sposoby-podcherkivaniya.html) - подчеркивание текста
 * [Accordion](http://codepen.io/raubaca/pen/PZzpVe) - Аккордеон
 * [Fort.js](https://codepen.io/idris/pen/LydKi) - progress bar for input
 * [Image carousel](https://codepen.io/sfi0zy/pen/OQOExE) - change images using rectangles
