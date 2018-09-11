@@ -42,7 +42,7 @@ CSS:
 * [sass-project](http://thesassway.com/beginner/how-to-structure-a-sass-project) - how-to-structure-a-sass-project
 * [sass-project](https://www.sitepoint.com/architecture-sass-project/) - architecture-sass-project
 * [SALVATTORE](https://salvattore.js.org/) - A jQuery Masonry alternative with CSS-driven configuration.
-* [Masonry](https://masonry.desandro.com/) - Cascading grid layout library
+* [Masonry](https://masonry.desandro.com/), [Isotope](https://isotope.metafizzy.co/layout-modes.html) - Cascading grid layout library
 * [Owl](https://owlcarousel2.github.io/OwlCarousel2/), [slick](http://kenwheeler.github.io/slick/), [Glide](https://glidejs.com/) - Carousel
     
 
