@@ -44,6 +44,7 @@ CSS:
 * [SALVATTORE](https://salvattore.js.org/) - A jQuery Masonry alternative with CSS-driven configuration.
 * [Masonry](https://masonry.desandro.com/), [Isotope](https://isotope.metafizzy.co/layout-modes.html) - Cascading grid layout library
 * [Owl](https://owlcarousel2.github.io/OwlCarousel2/), [slick](http://kenwheeler.github.io/slick/), [Glide](https://glidejs.com/) - Carousel
+* [Preloader](http://nisnom.com/preloadery-loader/?_page=1) - 50+ прелоадеров
     
 
 Сборка:
