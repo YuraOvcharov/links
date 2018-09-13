@@ -12,6 +12,7 @@ Codepen:
 * [CSS3 Box Shadows Effects ](https://codepen.io/haibnu/pen/FxGsI) - Тени (box-shadows)
 * [Внизу](https://codepen.io/agusesetiyono/pen/bVMaBm?editors=1100), [Сверху](https://codepen.io/tfirdaus/pen/pjqrpe), [Статья](http://pattern-blog.com.ua/article/skoshennyie-elementyi-na-css) - Косые углы у объекта
 * [Linear gradients ](https://codepen.io/sfi0zy/pen/pZmadB) - Button's border
+* [SpinKit](https://codepen.io/ibanez182/pen/YyJKde) - Прелоадеры
 
 Animation:
 * [animate](https://daneden.github.io/animate.css/) -animate.css
