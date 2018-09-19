@@ -1,6 +1,7 @@
 Test or optimize site:
  * [kraken](https://kraken.io/) - optimize your images
  * [Checklist](https://github.com/lex111/Front-End-Performance-Checklist#%D0%A8%D1%80%D0%B8%D1%84%D1%82%D1%8B) - Чек-лист производительности фронтенда
+ * [Turbo](https://turbo.net/browsers), [Screenshots microsoft](https://developer.microsoft.com/en-us/microsoft-edge/tools/screenshots/), [Crossbrowsertesting](https://app.crossbrowsertesting.com/trial_started) - Проверка на кросс-браузерность
  
 Codepen:
 * [pen/Eikhr](https://codepen.io/juanbrujo/pen/Eikhr), [Статья](http://prgssr.ru/development/sposoby-podcherkivaniya.html) - подчеркивание текста
