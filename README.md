@@ -1,3 +1,7 @@
+Test or optimize site:
+ * [kraken](https://kraken.io/) - optimize your images
+ * [Checklist](https://github.com/lex111/Front-End-Performance-Checklist#%D0%A8%D1%80%D0%B8%D1%84%D1%82%D1%8B) - Чек-лист производительности фронтенда
+ 
 Codepen:
 * [pen/Eikhr](https://codepen.io/juanbrujo/pen/Eikhr), [Статья](http://prgssr.ru/development/sposoby-podcherkivaniya.html) - подчеркивание текста
 * [Accordion](http://codepen.io/raubaca/pen/PZzpVe) - Аккордеон
@@ -36,17 +40,19 @@ Manual:
 * [habr-post](https://habrahabr.ru/post/273471/) - Коллекция практических советов и заметок по вёрстке
 * [javascript-airbnb](https://github.com/leonidlebedev/javascript-airbnb) - Руководство по написанию JavaScript кода от Airbnb()
 * [CSS - airbnb](https://github.com/leonidlebedev/javascript-airbnb/tree/master/css-in-javascript) - Руководство по написанию CSS-in-JavaScript кода от Airbnb
-* [Checklist](https://github.com/lex111/Front-End-Performance-Checklist#%D0%A8%D1%80%D0%B8%D1%84%D1%82%D1%8B) - Чек-лист производительности фронтенда
 * [Poly Fluid Sizing](https://medium.com/@jakobud/css-polyfluidsizing-using-calc-vw-breakpoints-and-linear-equations-8e15505d21ab), [Та же статья, на другом сайте](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/) - Адаптивность шрифта
+* [oriolo](https://oriolo.ru/ispolzovanie-es6-v-gulp/) - использование babel
 
 CSS:
 * [sass-project](http://thesassway.com/beginner/how-to-structure-a-sass-project) - how-to-structure-a-sass-project
 * [sass-project](https://www.sitepoint.com/architecture-sass-project/) - architecture-sass-project
-* [SALVATTORE](https://salvattore.js.org/) - A jQuery Masonry alternative with CSS-driven configuration.
-* [Masonry](https://masonry.desandro.com/), [Isotope](https://isotope.metafizzy.co/layout-modes.html) - Cascading grid layout library
 * [Owl](https://owlcarousel2.github.io/OwlCarousel2/), [slick](http://kenwheeler.github.io/slick/), [Glide](https://glidejs.com/) - Carousel
 * [Preloader](http://nisnom.com/preloadery-loader/?_page=1) - 50+ прелоадеров
-    
+* [jonsuh](https://jonsuh.com/hamburgers/) - hamburgers
+
+Layout:
+* [SALVATTORE](https://salvattore.js.org/) - A jQuery Masonry alternative with CSS-driven configuration.
+* [Masonry](https://masonry.desandro.com/), [Isotope](https://isotope.metafizzy.co/layout-modes.html) - Cascading grid layout library
 
 Сборка:
 * [gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) - started gulp
